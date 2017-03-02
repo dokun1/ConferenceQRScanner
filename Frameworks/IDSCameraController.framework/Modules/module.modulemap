@@ -1,0 +1,6 @@
+framework module IDSCameraController {
+  umbrella header "IDSCameraControllerKit.h"
+
+  export *
+  module * { export * }
+}
